@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there i'm Stephen👋
 
 - 🔭 I’m currently working on myself
 - 🌱 I’m currently learning mobile development with ionic and vuejs
