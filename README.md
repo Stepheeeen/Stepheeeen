@@ -1,5 +1,3 @@
-https://streak-stats.demolab.com?user=Stepheeeen&theme=dark&border_radius=5)](https://git.io/streak-stats
-
 ### Hi there i'm Stephen👋
 
 - 🔭 I’m currently working on myself
@@ -9,3 +7,4 @@ https://streak-stats.demolab.com?user=Stepheeeen&theme=dark&border_radius=5)](ht
 - 📫 How to reach me: stephenon56@gmail.com
 - ⚡ Fun fact: i love coding
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Stepheeeen&theme=dark&border_radius=5)](https://git.io/streak-stats)
