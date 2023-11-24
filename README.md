@@ -1,4 +1,4 @@
-### Hi there i'm Stephen👋
+### Hi there i'm Stephen👋🙃
 
 - 🔭 I’m currently working on myself
 - 🌱 I’m currently learning mobile development with React native
