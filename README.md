@@ -1,6 +1,6 @@
 ### Hi there i'm Stephen👋🙃
 
-- 🔭 I’m currently working on myself
+- 🔭 I’m currently working on Routinr 
 - 🌱 I’m currently learning mobile development with React native
 - 👯 I’m looking to collaborate on any project and many projects
 - 🤔 I’m looking for help with improvement all round
