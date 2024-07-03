@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on My Resume
 - 🌱 I’m currently learning how to test and break my limits
-- 👯 I’m looking to collaborate on any project and many projects
+- 👯 I’m looking to collaborate on any project
 - 🤔 I’m looking for help with improvement all round
 - 📫 How to reach me: stephenon56@gmail.com.
 - ⚡ Fun fact: i love playing basketball....
