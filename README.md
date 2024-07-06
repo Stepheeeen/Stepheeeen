@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with improvement all round
 - 📫 How to reach me: stephenon56@gmail.com.
 - ⚡ Fun fact: i love playing basketball....
-- Arigato
+- 👋 Arigato
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Stepheeeen&theme=dark&border_radius=5)](https://git.io/streak-stats)
 
