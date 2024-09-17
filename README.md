@@ -1,6 +1,6 @@
 ### Hi there i'm Stephen👋🙃
 
-- 🔭 I’m currently working on My Resume
+- 🔭 I’m currently working on My Life
 - 🌱 I’m currently learning how to test and break my limits
 - 👯 I’m looking to collaborate on any project
 - 🤔 I’m looking for help with improvement all round
