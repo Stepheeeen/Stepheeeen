@@ -26,7 +26,7 @@ Driven by innovation and obsessed with shipping impactful products, I architect,
 
 ### 🏆 Highlights & Recognitions
 
-- Building out [**Flair Technologies**](https://flairtechnologies.io) with three core products:
+- Building out [**Flair Technologies**](https://flairtechlabs.com) with three core products:
   - **ForeverNote** — Voice-based memory and legacy system
   - **Startup-in-a-Box** — MVP toolkits for non-tech founders
   - **Flair Ventures** — MVP-for-equity engine
