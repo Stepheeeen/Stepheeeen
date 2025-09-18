@@ -24,16 +24,6 @@ Driven by innovation and obsessed with shipping impactful products, I architect,
 
 ---
 
-### 🚀 Flagship Projects
-
-- [**Meemi**](https://meemi.vercel.app) — Social voice journaling platform  
-- [**TopupBox**](https://topupbox.com) — Airtime/Data vending infrastructure  
-- [**Ibitees Ventures**](https://ibiteesventures.com) — Commerce platform for custom merch  
-- [**Walcr**](https://walcrapp.vercel.app) — Lightweight wallet & remittance system  
-- [**MaisonCo**](https://maisonco.vercel.app) — Modern real estate interface  
-
----
-
 ### 🏆 Highlights & Recognitions
 
 - Building out [**Flair Technologies**](https://flairtechnologies.io) with three core products:
@@ -47,9 +37,9 @@ Driven by innovation and obsessed with shipping impactful products, I architect,
 
 ### 🔗 Let’s Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/your-handle)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/your-handle)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-orange?style=flat-square&logo=internet-explorer)](https://your-portfolio-link.com)
+[![Twitter](https://img.shields.io/badge/-twitter-blue?style=flat-square&logo=twitter)](https://X.com/step_h4n)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/Stepheeeen)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-orange?style=flat-square&logo=internet-explorer)](https://wa.me/2349128387342)
 
 ---
 
